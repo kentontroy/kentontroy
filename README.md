@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentontroy
-- 👀 I’m interested in Data Engineering and Machine Learning
+- 👀 I’m interested in Data Engineering and Realtime Analytics
 - 🌱 I’m currently working for a product vendor and have prior experience in the financial industry
 - 💞️ I’m looking to collaborate on streaming and blockchain/DeFi projects
 - 📫 How to reach me: kenton.davis@statisticalfx.com
